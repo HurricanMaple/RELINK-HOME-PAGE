@@ -22,7 +22,7 @@
         <a href="https://www.barryblueice.top" target="_blank" class="mdui-btn mdui-btn-icon"  mdui-tooltip="{content :'查看作者网站'}">
             <i class="mdui-icon material-icons">home</i>
         </a>
-        <a href="https://www.barryblueice.top" target="_blank" class="mdui-btn mdui-btn-icon"  mdui-tooltip="{content :'查看起始页源码'}">
+        <a href="https://github.com/barryblueice/RELINK-HOME-PAGE" target="_blank" class="mdui-btn mdui-btn-icon"  mdui-tooltip="{content :'查看起始页源码'}">
             <i class="mdui-icon material-icons">code</i>
         </a>
     </div>
