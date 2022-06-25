@@ -36,7 +36,7 @@
               <i class="mdui-collapse-item-arrow mdui-icon material-icons ">keyboard_arrow_down</i>
             </div>
             <ul class="mdui-collapse-item-body mdui-list mdui-list-dense">
-              <a href="./code_website.php">
+              <a href="./sample.php">
                 <li class="mdui-list-item mdui-ripple">国家政府相关</li>
               </a>
               <li class="mdui-list-item mdui-ripple">程序代码相关</li>
@@ -54,30 +54,6 @@
           </li>
         </ul>
       </div>
-      <div class="mdui-container">
-        <div class="mdui-row">
-          <div class="mdui-col-md-8 mdui-col-offset-md-5">
-            <div class="mdui-typo-display-3"  style="padding-top: 250px;">RE-LINK</div>
-          </div>
-        </div>
-      </div>
-      <div class="mdui-textfield mdui-center" style="padding-top: 50px;">
-        <div class=" mdui-container">
-          <form method="get" class="search-bar" action="https://www.baidu.com/s?">
-            <div class="mdui-row">
-              <div class="mdui-col-md-7 mdui-col-offset-md-2">
-                <div class="mdui-textfield">
-                  <i class="mdui-icon material-icons">search</i>
-                  <input class="mdui-textfield-input"  type="text" name="wd" placeholder="Search Something..."/>
-                </div>
-              </div>
-              <div class="mdui-col-offset-md-1 "  style="padding-top: 16px;">
-                <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent">Search!</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>  
     </body>
 
     <h1></h1>
